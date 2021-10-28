@@ -1,0 +1,21 @@
+﻿  main.cpp
+  Color.cpp
+  DirectionalLight.cpp
+  Light.cpp
+  PointLight.cpp
+  Point.cpp
+  Ray.cpp
+  Scene.cpp
+  Shape.cpp
+  Sphere.cpp
+  Triangle.cpp
+C:\Users\josh\Documents\GitHub\Computer-Graphics-Course\hw3\HW3\include\ProgressBar.hpp(35,27): warning C4018: '<': signed/unsigned mismatch
+  Vector3.cpp
+  ReadFile.cpp
+  TransformStack.cpp
+C:\Users\josh\Documents\GitHub\Computer-Graphics-Course\hw3\HW3\src\model\shapes\Triangle.cpp(19,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 799 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HW3.vcxproj -> C:\Users\josh\Documents\GitHub\Computer-Graphics-Course\hw3\HW3\Release\Raytracer.exe
